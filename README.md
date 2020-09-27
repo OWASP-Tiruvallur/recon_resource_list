@@ -1,4 +1,4 @@
-# recon_github_list
+# Resource List
 Cyber Hack 2020 by [OWASP Coimbatore](https://github.com/OWASP/www-chapter-coimbatore) and [OWASP Tiruvallur](https://github.com/OWASP/www-chapter-tiruvallur)
 
 Web Resources:
